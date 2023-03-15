@@ -24,20 +24,19 @@ In this project we are going to study Covid Data by completing the following tas
 
 ## Data
 ### Data Source 
-The data was imported from <a href=" https://ourworldindata.org/covid-deaths "> ourworldindata.org </a>. One should note that the data used is up to May 2021. We can always add more data if we want. 
+The data was imported from <a href="https://ourworldindata.org/covid-deaths">ourworldindata.org</a>. One should note that the data used is up to May 2021. We can always add more data if we want. 
 
 ### Data Exploration
 Using SQL we wrote few queries to explore the data and build few tables. 
-See <a href=" https://github.com/MireyNM/Covid_Dashboard/blob/main/coviddeaths.sql">coviddeaths.sql </a> 
+See <a href="https://github.com/MireyNM/Covid_Dashboard/blob/main/coviddeaths.sql">coviddeaths.sql</a> 
 
 After that we have wrote few queries to create tables that we have exported into Excel tables to be used in Tableau. See <a href="https://github.com/MireyNM/Covid_Dashboard/blob/main/create_tables.sql">create_tables.sql</a>
 
 Finally, using Tableau we have built visualizations and dashboard. 
 Link to Tableau Dasboard: 
-<a href=" https://public.tableau.com/app/profile/mireille1519/viz/CovidDashboard_16783200101730/CovidDashboard
-"> CovidDashboard</a>
+<a href="https://public.tableau.com/app/profile/mireille1519/viz/CovidDashboard_16783200101730/CovidDashboard">CovidDashboard</a>
 
-### Results 
+## Results 
 <p align = "center">
 <img width="1000" alt="Screen Shot 2023-03-08 at 6 31 53 PM" src="https://user-images.githubusercontent.com/109363759/224436719-2c15b37f-2c93-4af7-b9f4-34dc6975c830.png">
 </p>
