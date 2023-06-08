@@ -6,6 +6,7 @@
 * [Technologies](#technologies)
 * [Data](#data)
 * [Results](#results)
+* [Copywrite](#copywrite)
 
 ## Overview 
 In this project we are going to study Covid Data by completing the following tasks:
@@ -50,4 +51,7 @@ Based on our visualization (See Fig. 1), we can conclude:
 * A map showing the percent of infected by Covid per country. 
 * The average percent population infected by date by country. 
  
-
+## Copywrite
+This is a guided project done by <a href="https://github.com/AlexTheAnalyst/PortfolioProjects">Alex The Analyst</a> 
+</br>
+You can check his <a href="https://youtu.be/qfyynHBFOsM">Data Analyst Portfolio Projects</a> on Youtube. 
